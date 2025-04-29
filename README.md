@@ -2,6 +2,9 @@
 
 The bonk-mcp server implements Solana blockchain functionality for the LetsBonk launchpad.
 
+<a href="https://glama.ai/mcp/servers/@bjoernbonk/letsbonk_mcp_server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@bjoernbonk/letsbonk_mcp_server/badge" alt="bonk-mcp Server MCP server" />
+</a>
 
 ## Features
 - Token launching: launch any token on letsbonk.fun
